@@ -2,9 +2,9 @@
 	"debug": false,
 	"beacons": [
 		{
-			"callsign": "NOCALL-7",
+			"callsign": "SA0CBP",
 			"path": "WIDE1-1",
-			"message": "LoRa Tracker",
+			"message": "LoRa Tracker qrv TG2400",
 			"timeout": 1,
 			"symbol": "[",
 			"overlay": "/",
